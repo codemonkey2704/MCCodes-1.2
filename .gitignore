@@ -1,0 +1,7 @@
+
+vendor/autoload.php
+vendor/bin/phpstan
+vendor/bin/phpstan.bat
+vendor/bin/phpstan.phar
+/vendor/
+/rector.php
